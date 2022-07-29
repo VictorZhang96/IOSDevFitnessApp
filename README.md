@@ -1,1 +1,22 @@
 # IOSDevFitnessApp
+
+Title: App Development for Online Fitness Start-Up
+Description: A start-up offering personal fitness offerings for student/young athletes is looking to develop a prototype of an app that will be used by clients during a beta testing phase and be part of the final product. The project will leverage existing resources such as wireframes and application content in excel spreadsheets to create a database driven website and application capable of cross-referencing user information to only provide data that is relevant to the user. There will also be a need to build some social aspects to the application as well. Interactions between users and subscriptions to certain groups within the app will be necessary for it to run. Users will also need to be able to upload their own data, sometimes through APIs, to be viewed and received by other users.
+Deliverable/Goal: The goal of this project is to have a fully functioning application with all the features currently planned for the minimum viable product. Again, this includes software that: pulls from a database and cross-references information to produce only useful data, has social features that allow users to share information and upload data through API’s, and subscribe to particular groups. The wireframes and database are complete, software development is the biggest need for this start-up company.
+ 
+Below are some project parameters that we'll try to stick with to ensure max efficiency over the short project duration, and be sure, students, to first get together and then reach out as a group to your sponsor and initiate contact and a kick-off meeting so you'll know when and where to loop faculty support in where necessary. The course faculty is cc'd on this email introduction. 
+• The project duration should be about 6-7 weeks, depending on mutual convenience.
+• Students should be working about six hours per week, entirely remotely, on the project either in their assigned teams or individually once tasks are broken out.
+• Sponsors should dedicate at least an hour a week to virtual check-ins and/or project support to ensure the project is progressing as intended.
+  
+Again, it's the students' responsibility to first get together as a group and then, together, follow-up and schedule a mutually convenient time for a kick-off meeting with the sponsor. Over the coming weeks, we will check in periodically to ensure everything is going smoothly to achieve your mutual learning goals but want to allow you to establish the best working relationship for your needs. 
+  
+Though you've heard it before, here's a quick recap of XN project work parameters: 
+• Sponsors are expected to provide students with all the necessary materials to complete the projects successfully.
+• Students are expected to complete project deliverables on time according to both the course and the project schedule (this is greatly aided when students and sponsors are both aware of the academic schedule of the course the project is embedded within). This includes submitting the deliverable to the sponsor before the course is completed and with enough time for the sponsor to provide feedback.
+• Students and sponsors are expected to proactively communicate any issues arising to faculty and XN staff.
+• All work can be done remotely via phone, email, and video conference, but in cases where in-person meetings are possible and beneficial, you can work directly to set them up.
+  
+XN is thrilled to make this introduction and we anticipate much shared success. As a reminder to all parties and a special note on NDAs, regarding integrity and ownership of project content: If the sponsor would like the students to sign an NDA, this is fine, and faculty can often facilitate. Sponsor, please include whether it's okay for the students to share their project with faculty since, for support and grading purposes, sharing is very necessary and whether it's okay for the students to share their final presentation with their classmates, as this results in the best feedback. XN engagement guidelines for sponsors are found at https://careers.northeastern.edu/wp-content/uploads/sites/15/XN-Program-Guidelines-2021.pdf. All students are aware of Northeastern's academic code of conduct, and you can trust them to be academically oriented sharing partners and nothing more. 
+  
+Reach out with any questions along the way and best of luck to you all during the project! 
